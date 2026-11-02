@@ -1,6 +1,6 @@
 ### Phạm Nguyễn Gia Khang
 
-Backend and infrastructure engineer in Ho Chi Minh City · Computer Science at HCMUT.
+Backend and infrastructure engineer in Ho Chi Minh City | Computer Science at HCMUT.
 I work on real-time backends and the infrastructure underneath them.
 
 &nbsp;
