@@ -7,14 +7,14 @@ I work on real-time backends and the infrastructure underneath them.
 
 **Now**
 
-- **TopTopLive** at [Fessior](https://www.fessior.com): a real-time platform for TikTok LIVE creators. TikTok events are ingested over WebSocket and fanned out through NATS JetStream to NestJS services on MongoDB and Redis, then rendered as OBS overlays during live broadcasts.
-- **Infrastructure**: Kubernetes (k3s) provisioned with Ansible, Prometheus alerting, and self-hosted TURN for WebRTC remote control.
+- Software engineer at National Australia Bank, building Java/Spring Boot services on AWS.
+- Building community products with Google Developer Groups on Campus HCMUT, and mentoring student teams.
 
 &nbsp;
 
 **Stack**
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,go,java,spring,react,mongodb,postgres,redis,rabbitmq,docker,kubernetes,ansible,prometheus,grafana,linux&perline=9" height="72" alt="TypeScript, Node.js, NestJS, Go, Java, Spring, React, MongoDB, PostgreSQL, Redis, RabbitMQ, Docker, Kubernetes, Ansible, Prometheus, Grafana, Linux" />
+<img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,nestjs,go,react,postgres,mongodb,redis,kafka,rabbitmq,aws,docker,kubernetes,ansible,prometheus,grafana,linux&perline=10" height="72" alt="Java, Spring, TypeScript, Node.js, NestJS, Go, React, PostgreSQL, MongoDB, Redis, Kafka, RabbitMQ, AWS, Docker, Kubernetes, Ansible, Prometheus, Grafana, Linux" />
 
 &nbsp;
 
